@@ -48,6 +48,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-  <img src="https://kaiten.ru/assets/img/logo.svg" title="obsidian.md" alt="kaiten.ru" width="40" height="40"/>&nbsp
+  <img src="https://kaiten.ru/assets/img/logo.svg" title="kaiten.ru" alt="kaiten.ru" width="40" height="40"/>&nbsp
     
 </div>
