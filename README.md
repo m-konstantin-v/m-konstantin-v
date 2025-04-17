@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, меня зовут Константин!
 
-<!--
-**m-konstantin-v/m-konstantin-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Здесь я хочу поделиться своим портфолио по мобильному и веб-тестированию, составленным на основе различных проектах.
 
-Here are some ideas to get you started:
+<div style="display: flex;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="flex: 100%; padding-right: 10px;">
+
+### 🏃🏼‍♀️ Краткая информация:
+- 👩🏼‍💻 Сейчас работаю ручным тестировщиком;
+- 🎓 Прошел [Тестировщик ПО с нуля](https://drive.google.com/file/d/1zqbNL1IHXVoR09HaNruvM06gqEbboGoP/view?usp=sharing);
+-  В свободное время люблю читать научные статьи;
+- У меня есть [резюме](https://drive.google.com/file/d/1kLQc4mdYUSkp2vWMnxnmPK441NDog5Eu/view?usp=sharing)!
+
+</div>
+
+<div style="flex: 100%; text-align: right; padding-left: 10px;">
+
+<img src="https://media1.tenor.com/m/NZqiUoAnAFsAAAAd/cat-computer.gif" alt="Example GIF" style="max-width: 100%; height: auto;">
+
+</div>
