@@ -8,7 +8,7 @@
 
 ### 🏃🏼‍♀️ Краткая информация:
 - 👩🏼‍💻 Сейчас работаю ручным тестировщиком;
-- 🎓 Прошел [Тестировщик ПО с нуля](https://drive.google.com/file/d/1zqbNL1IHXVoR09HaNruvM06gqEbboGoP/view?usp=sharing);
+- 🎓 Прошел курс [Тестировщик ПО с нуля](https://drive.google.com/file/d/1zqbNL1IHXVoR09HaNruvM06gqEbboGoP/view?usp=sharing);
 - В свободное время люблю читать научные статьи;
 - У меня есть [резюме](https://drive.google.com/file/d/1kLQc4mdYUSkp2vWMnxnmPK441NDog5Eu/view?usp=sharing)!
 
@@ -48,6 +48,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+  <img src="https://photo-screen.ru/i/view.php?img=9cdbe000f65e459dc2a3.PNG" title="miro.ru" alt="miro.ru" width="40" height="40"/>&nbsp
   <img src="https://kaiten.ru/assets/img/logo.svg" title="kaiten.ru" alt="kaiten.ru" width="40" height="40"/>&nbsp
     
 </div>
