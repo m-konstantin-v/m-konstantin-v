@@ -106,9 +106,4 @@
 - [Коллекции Postman для тестирования API]()
 - [Запросы к базе данных]()
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-konstantin-v&show_icons=true&theme=tokyonight" alt="m-konstantin-v's GitHub stats" />
-</p>
 
