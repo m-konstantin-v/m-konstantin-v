@@ -10,7 +10,7 @@
 - 👩🏼‍💻 Сейчас работаю ручным тестировщиком;
 - 🎓 Прошел курс [Тестировщик ПО с нуля](https://drive.google.com/file/d/1zqbNL1IHXVoR09HaNruvM06gqEbboGoP/view?usp=sharing);
 - В свободное время люблю читать научные статьи;
-- У меня есть [резюме](https://drive.google.com/file/d/1kLQc4mdYUSkp2vWMnxnmPK441NDog5Eu/view?usp=sharing)!
+- У меня есть [резюме](https://drive.google.com/file/d/1fGNIPiKe-U1rq22PFG14nNOkHl_ob76r/view?usp=sharing)!
 
 </div>
 
