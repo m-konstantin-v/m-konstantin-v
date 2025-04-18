@@ -102,7 +102,7 @@
 - [Анализ требований и выбор типов тестирования для проекта](https://github.com/m-konstantin-v/theory);
 - [Применение методов проектирования тестов к модулям проекта](https://github.com/m-konstantin-v/design);
 - [Тестовая документация](https://github.com/m-konstantin-v/docs);
-- [Тестирование веб-приложений]();
+- [Тестирование веб-приложений](https://github.com/m-konstantin-v/web);
 - [Тестирование мобильных приложений]();
 - [Коллекции Postman для тестирования API]();
 - [Запросы к базе данных](https://github.com/m-konstantin-v/database);
