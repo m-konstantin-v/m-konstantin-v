@@ -103,8 +103,8 @@
 - [Применение методов проектирования тестов к модулям проекта](https://github.com/m-konstantin-v/design);
 - [Тестовая документация](https://github.com/m-konstantin-v/docs);
 - [Тестирование веб-приложений](https://github.com/m-konstantin-v/web);
-- [Тестирование мобильных приложений]();
-- [Коллекции Postman для тестирования API]();
+- [Тестирование мобильных приложений](https://github.com/m-konstantin-v/mobile);
+- [Коллекции Postman для тестирования API](https://github.com/asyawrr/api);
 - [Запросы к базе данных](https://github.com/m-konstantin-v/database);
 - [Работа с git и bash](https://github.com/m-konstantin-v/git_bash).
 
