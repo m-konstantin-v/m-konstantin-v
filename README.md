@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
   <img src="https://photo-screen.ru/i/view.php?img=9cdbe000f65e459dc2a3.PNG" title="miro.ru" alt="miro.ru" width="40" height="40"/>&nbsp
   <img src="https://kaiten.ru/assets/img/logo.svg" title="kaiten.ru" alt="kaiten.ru" width="40" height="40"/>&nbsp
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
     
 </div>
 
@@ -82,6 +83,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/dbeaver-icon-512x506-p5mxyxd5.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
 ---
