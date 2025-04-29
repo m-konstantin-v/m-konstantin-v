@@ -110,7 +110,7 @@
 - [Тестовая документация](https://github.com/m-konstantin-v/docs);
 - [Тестирование веб-приложений](https://github.com/m-konstantin-v/web);
 - [Тестирование мобильных приложений](https://github.com/m-konstantin-v/mobile);
-- [Коллекции Postman для тестирования API](https://github.com/asyawrr/api);
+- [Коллекции Postman для тестирования API](https://github.com/m-konstantin-v/api);
 - [Запросы к базе данных](https://github.com/m-konstantin-v/database);
 - [Работа с git и bash](https://github.com/m-konstantin-v/git_bash).
 
