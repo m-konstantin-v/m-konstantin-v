@@ -102,7 +102,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/800px-C_Sharp_Logo_2023.svg.png" title="C#" alt="C#" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png" title="Rider" alt="Rider" width="40" height="40"/>&nbsp
-  <img src="https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png" width="40" height="40"/>&nbsp
   
 
 </div>
