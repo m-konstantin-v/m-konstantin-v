@@ -1,14 +1,37 @@
 # Привет, меня зовут Константин!
 
-📚 Здесь я хочу поделиться своим портфолио по мобильному и веб-тестированию, составленным на основе учебных проектов.
+🧪 Fullstack QA Engineer · C#/.NET · Web & Mobile
+
+Здесь собраны информация о моём профессиональном опыте и портфолио учебных проектов по тестированию.
 
 <div style="display: flex;">
 
 <div style="flex: 100%; padding-right: 10px;">
 
 ### 🏃🏼‍♀️ Краткая информация
-🧪 В настоящее время работаю ручным тестировщиком, совершенствуя свои навыки и знания в области тестирования.
-Теперь также пишу автотесты с использованием C# и Playwright.
+🧪 Занимаюсь ручным и автоматизированным тестированием веб- и мобильных приложений с февраля 2024 года. Основной стек — C#/.NET, Appium, Selenium и Reqnroll.
+
+Разрабатываю мобильные E2E-автотесты для Android и iOS, развиваю тестовый фреймворк и подготовку тестовых данных через API. Выступаю ментором QA-инженеров: помогаю осваивать автоматизацию на C# и Selenium, провожу практические занятия и ревью автотестов.
+
+### 💼 Опыт работы
+
+**Чиббис · Fullstack QA Engineer (Manual & Automation)**  
+Август 2025 — настоящее время
+
+- Ручное и автоматизированное тестирование веб- и мобильных приложений.
+- Разработка мобильных E2E-автотестов и развитие существующего фреймворка автоматизации.
+- Разработка общего API-слоя и модуля подготовки тестовых данных для мобильных и веб-автотестов.
+- Работа с облачными запусками в BrowserStack и диагностика нестабильных тестов.
+- Менторство ручных QA-инженеров при переходе к Fullstack QA.
+
+**Pro-test.Studio · QA Engineer (Manual & Automation)**  
+Февраль 2024 — август 2025
+
+- Ручное тестирование веб- и мобильных приложений, разработка и сопровождение тестовой документации.
+- Автоматизация ключевых пользовательских сценариев веб-приложения.
+- Тестирование требований, функциональные, регрессионные и интеграционные проверки.
+
+### 📚 Обучение
 - 📚 Завершил курсы:
   - [Тестировщик ПО с нуля](https://drive.google.com/file/d/1zqbNL1IHXVoR09HaNruvM06gqEbboGoP/view?usp=sharing)
   - [Тесторование ПО с нуля. Теория + практика](https://drive.google.com/file/d/1YZmXr-nsjG8vyW6YWCmGnDKpN8bWtuO5/view?usp=sharing)
@@ -30,7 +53,7 @@
 
 ### 📫 Как со мной связаться
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nero.mk1999@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nero.mkv@gmail.com)
 
 ---
 
@@ -49,6 +72,8 @@
 
 ### 📁 Тестовая документация
 
+QASE · TestRail · Testiny · Jira · YouTrack · Kaiten · Notion · Miro · Figma
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp
@@ -64,6 +89,8 @@
 
 ### 🛠 Тестирование веб-приложений
 
+Selenium · Playwright · DevTools · Postman · REST · GraphQL
+
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
@@ -74,6 +101,8 @@
 ---
 
 ### 📱 Тестирование мобильных приложений
+
+Appium · Android / iOS · BrowserStack · Android Studio · Charles Proxy · Proxyman
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -94,6 +123,8 @@
 ---
 
 ### ✏️ Работа с кодом
+
+C# / .NET · Python · Reqnroll / Gherkin · Page Object · BoDi · Git / GitLab · Bash · Rider · VS Code
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
